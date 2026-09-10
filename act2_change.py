@@ -1,4 +1,4 @@
-name= input("Dimayuga, Mark Olyver C.")
+name= input("Enter your name")
 print("Hello,"+ name)
 # act2_change.py
 # TASK 1 – CHANGE CALCULATOR
